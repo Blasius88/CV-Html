@@ -1,0 +1,29 @@
+.header{
+text-align: center;
+font-size: large;
+height: 15%;
+}
+
+.main {
+    width: 100%;
+    font-size: 25px;
+    height: 70%;
+}
+
+.table{
+    text-align: left;
+}
+
+#col1 {
+    text-align: center;
+}
+
+#col2{
+    font-weight:bold
+}
+
+.thema_row{
+    color: cadetblue;
+    border-bottom: 1px solid cadetblue; /* Параметры линии под текстом */
+    padding-bottom: 0px; /* Расстояние от текста до линии */
+}
